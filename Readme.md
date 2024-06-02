@@ -42,7 +42,6 @@ pip install -r requirements.txt
 
 model选项：选择模型，精度递增、速度递减依次为 **s,s6,m,m6,x,x6**，对GPU性能的需求也递增，如果出现卡顿，建议降级使用
 
-!
 
 
 
